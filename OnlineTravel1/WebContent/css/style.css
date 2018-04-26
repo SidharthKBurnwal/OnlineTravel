@@ -1,0 +1,107 @@
+.row-header
+{
+	margin: 0px auto;
+	padding: 0px auto;
+}
+.row-content
+{
+	 margin: 0px auto;
+	 padding: 50px 0px 50px 0px;
+	 border-bottom: 1px ridge;
+	 min-height: 400px;
+}
+.row-footer
+{
+	background-color:  #a6a6a6;
+	margin: 0px auto;
+	padding: 20px 0px 20px 0px;
+}
+.jumbotron
+{
+	padding: 5px;
+	margin: 0px auto;
+	background: #7986cb;
+	color: floralwhite;		
+	background-image: url("../img/image0.jpg");
+    background-repeat: no-repeat;
+    /*background-size: cover;*/
+    background-size:100% 100%;
+   
+ 
+}
+address
+{
+	font-size: 80%;
+	margin: 0px;
+	color: #0f0f0f;
+}
+body
+{
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+
+}
+
+.navbar-inverse
+{
+	background-color: #000000;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background-color: #000000;
+   
+}
+
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #000000;
+    color:#ffffff;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
+    background-color: #000000;
+    color:#666633	;
+}
+
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> form,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #000000;
+    color:#000000;
+    text-align: center;
+}
+
+.affix{
+	top: 100px;
+}
+/*.carousel .item{
+	height: 500px;
+	width: 1200px;
+}
+.item img{
+	position: absolute;
+	top: 0;
+
+	min-height: 500px;
+	min-width: 1200px;
+}*/
+
+.carousel .item{
+	height: 500px;
+	width: 1360px;
+}
+.item img{
+	position: absolute;
+	top: 0;
+
+	min-height: 500px;
+	min-width: 1360px;
+}
+
+
+
+

@@ -1,0 +1,13 @@
+127.0.0.1 - - [21/Aug/2016:14:45:01 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:45:03 +0530] "GET /OnlineTravel1/index2.jsp HTTP/1.1" 200 15127
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:53:04 +0530] "POST /OnlineTravel1/CustomerLoginServlet HTTP/1.1" 200 15240
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:53:30 +0530] "POST /OnlineTravel1/CustomerLoginServlet HTTP/1.1" 200 15240
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:53:49 +0530] "POST /OnlineTravel1/AdminLoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:53:49 +0530] "GET /OnlineTravel1/WelcomeAdmin.jsp HTTP/1.1" 200 11640
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:53:50 +0530] "GET /OnlineTravel1/jQuery1/jquery-ui.min.js HTTP/1.1" 200 228002
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:53:50 +0530] "GET /OnlineTravel1/jQuery1/jquery.min.js HTTP/1.1" 200 92629
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:54:00 +0530] "GET /OnlineTravel1/index2.jsp HTTP/1.1" 200 15127
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:54:04 +0530] "GET /OnlineTravel1/CustomerRegistration.jsp HTTP/1.1" 200 2918
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:54:48 +0530] "POST /OnlineTravel1/CustomerRegistrationServlet HTTP/1.1" 200 15223
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:55:08 +0530] "POST /OnlineTravel1/CustomerLoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Aug/2016:14:55:09 +0530] "GET /OnlineTravel1/WelcomeUser.jsp HTTP/1.1" 200 11990
